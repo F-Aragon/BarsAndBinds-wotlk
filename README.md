@@ -2,8 +2,9 @@
 
 **Save, restore, export and import your action bars and key bindings, all from one window.**
 
-Bars & Binds is a World of Warcraft addon for **WotLK 3.3.5a** (Interface 30300) to manage your action bar and key binding profiles.
+Bars & Binds is a World of Warcraft addon for **WotLK 3.3.5a** to manage your action bar and key binding profiles.
 
+> Type `/bnb` to open the main window.
 <p align="center">
   <img src="docs/images/action-bars.png" alt="Action Bars tab">
 </p>
