@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: Bars & Binds
+## Notes: Save, restore, export and import action bar and key binding profiles. Based on Action Bar Saver (Shadowed) and Key Bindings Profiler (zimeng).
+## Author: Chupanki
+## Version: 1.0
+## SavedVariables: BarsAndBindsDB
+
+localization.enUS.lua
+Core.lua
+Bars.lua
+Keys.lua
+Transfer.lua
+UI.lua
+Options.lua
+TransferUI.lua
+Slash.lua
