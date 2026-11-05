@@ -4,7 +4,9 @@
 
 Bars & Binds is a World of Warcraft addon for **WotLK 3.3.5a** (Interface 30300) to manage your action bar and key binding profiles.
 
-![Action Bars tab](docs/images/action-bars.png)
+<p align="center">
+  <img src="docs/images/action-bars.png" alt="Action Bars tab">
+</p>
 
 ## Features
 
@@ -45,13 +47,17 @@ Same layout as the Action Bars tab. Key binding profiles are **account wide** an
 
 ### Export / Import
 
-![Export tab](docs/images/export-select.png)
+<p align="center">
+  <img src="docs/images/export-select.png" alt="Export tab">
+</p>
 
 1. Tick the profiles you want (action bars and key bindings can be mixed), or use *Select all* / *Select none*.
 2. Click **Export selected**.
 3. In the window that opens, click *Select all*, copy the text and save it somewhere safe.
 
-![Export window](docs/images/export-string.png)
+<p align="center">
+  <img src="docs/images/export-string.png" alt="Export window">
+</p>
 
 To bring profiles back, click **Import...**, paste the text and click *Import*. If some of the profiles already exist you will be asked before they are overwritten.
 
