@@ -104,5 +104,5 @@ To bring profiles back, click **Import...**, paste the text and click *Import*. 
 ## Credits
 
 - **Chupanki**: author of Bars & Binds.
-- **Shadowed**: [Action Bar Saver](https://www.curseforge.com/wow/addons/action-bar-saver), the base of the action bar profiles.
+- **Shadowed**: Action Bar Saver, the base of the action bar profiles.
 - **zimeng**: Key Bindings Profiler, the base of the key binding profiles.
